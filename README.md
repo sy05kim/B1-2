@@ -68,7 +68,8 @@ Waves of blue light travel through the city grid, buildings illuminate one by on
 - **사용 도구 및 목적**:
   CapCut: 로고/텍스트 삽입, 줌 효과, 페이드 효과, 엔딩 구성
   CapCut AI Audio: 미래적인 배경음악과 에너지 효과음 추가
-- **입력 프롬프트 예시**:
+- **입력 프롬프트 예시**: Create a premium sci-fi commercial ending scene with a dark background, glowing blue energy, subtle particles, and a strong brand logo reveal. 
+Show the brand name CORE in the center and add the slogan "충전은 끝났다." at the end.
 - **출력 결과 요약**: 브랜드명과 슬로건이 명확하게 보이도록 구성하여 광고의 마지막 메시지를 강조하였다.
 - **결과 파일명**: CapCut: 로고/텍스트 삽입, 줌 효과, 페이드 효과, 엔딩 구성
 CapCut AI Audio: `미래적인 배경음악과 에너지 효과음 추가`
